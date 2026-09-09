@@ -1,0 +1,18 @@
+<suite name = "herokuapp">
+
+	<listeners>
+		<listener class-name = "com.herokuapp.utilities.Reporting" />
+	</listeners>
+	
+	<test name = "test1">
+	
+		<parameter name = "browser" value = "chrome" />
+		<classes>
+	
+			<class name = "com.herokuapp.testCases.TC_LoginTest_001" />
+	
+		</classes>
+	
+	</test>
+	
+</suite>

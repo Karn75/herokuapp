@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <reportName>My Test Automation Report</reportName>
+        <theme>standard</theme> <!-- Options: standard, dark -->
+        <encoding>UTF-8</encoding>
+        <protocol>https</protocol>
+        <chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+        <documentTitle>Automation Test Report</documentTitle>
+    </configuration>
+</extentreports>

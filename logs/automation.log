@@ -1,0 +1,60 @@
+[2026-07-24 15:54:38] [main] INFO  com.herokuapp.testCases.BaseClass - url entered
+[2026-07-24 15:54:41] [main] INFO  com.herokuapp.testCases.BaseClass - username entered
+[2026-07-24 15:54:42] [main] INFO  com.herokuapp.testCases.BaseClass - password entered
+[2026-07-24 15:54:43] [main] INFO  com.herokuapp.testCases.BaseClass - login passed
+[2026-07-24 16:09:02] [main] INFO  com.herokuapp.testCases.BaseClass - url entered
+[2026-07-24 16:09:08] [main] INFO  com.herokuapp.testCases.BaseClass - username entered
+[2026-07-24 16:09:08] [main] INFO  com.herokuapp.testCases.BaseClass - password entered
+[2026-07-24 16:09:09] [main] INFO  com.herokuapp.testCases.BaseClass - login passed
+[2026-07-24 16:09:44] [main] INFO  com.herokuapp.testCases.BaseClass - url entered
+[2026-07-24 16:09:45] [main] INFO  com.herokuapp.testCases.BaseClass - username entered
+[2026-07-24 16:09:45] [main] INFO  com.herokuapp.testCases.BaseClass - password entered
+[2026-07-24 16:11:03] [main] INFO  com.herokuapp.testCases.BaseClass - url entered
+[2026-07-24 16:11:03] [main] INFO  com.herokuapp.testCases.BaseClass - username entered
+[2026-07-24 16:11:03] [main] INFO  com.herokuapp.testCases.BaseClass - password entered
+[2026-07-24 16:11:04] [main] INFO  com.herokuapp.testCases.BaseClass - login passed
+[2026-07-24 16:18:42] [main] INFO  com.herokuapp.testCases.BaseClass - url entered
+[2026-07-24 16:18:44] [main] INFO  com.herokuapp.testCases.BaseClass - username entered
+[2026-07-24 16:18:44] [main] INFO  com.herokuapp.testCases.BaseClass - password entered
+[2026-07-24 16:18:46] [main] INFO  com.herokuapp.testCases.BaseClass - login passed
+[2026-07-24 17:26:15] [main] INFO  com.herokuapp.testCases.BaseClass - url entered
+[2026-07-24 17:26:20] [main] INFO  com.herokuapp.testCases.BaseClass - username entered
+[2026-07-24 17:26:20] [main] INFO  com.herokuapp.testCases.BaseClass - password entered
+[2026-07-24 17:26:21] [main] INFO  com.herokuapp.testCases.BaseClass - login passed
+[2026-07-24 17:38:34] [main] INFO  com.herokuapp.testCases.BaseClass - url entered
+[2026-07-24 17:38:38] [main] INFO  com.herokuapp.testCases.BaseClass - username entered
+[2026-07-24 17:38:38] [main] INFO  com.herokuapp.testCases.BaseClass - password entered
+[2026-07-24 17:38:39] [main] INFO  com.herokuapp.testCases.BaseClass - login passed
+[2026-07-24 17:41:08] [main] INFO  com.herokuapp.testCases.BaseClass - url entered
+[2026-07-24 17:41:08] [main] INFO  com.herokuapp.testCases.BaseClass - username entered
+[2026-07-24 17:41:09] [main] INFO  com.herokuapp.testCases.BaseClass - password entered
+[2026-07-24 17:41:09] [main] INFO  com.herokuapp.testCases.BaseClass - login passed
+[2026-09-09 16:29:15] [main] INFO  com.herokuapp.testCases.BaseClass - url entered
+[2026-09-09 16:29:20] [main] INFO  com.herokuapp.testCases.BaseClass - username entered
+[2026-09-09 16:29:20] [main] INFO  com.herokuapp.testCases.BaseClass - password entered
+[2026-09-09 16:29:22] [main] INFO  com.herokuapp.testCases.BaseClass - login passed
+[2026-09-09 16:31:00] [main] INFO  com.herokuapp.testCases.BaseClass - url entered
+[2026-09-09 16:31:00] [main] INFO  com.herokuapp.testCases.BaseClass - username entered
+[2026-09-09 16:31:00] [main] INFO  com.herokuapp.testCases.BaseClass - password entered
+[2026-09-09 16:31:02] [main] INFO  com.herokuapp.testCases.BaseClass - Login button clicked
+[2026-09-09 16:31:02] [main] INFO  com.herokuapp.testCases.BaseClass - login passed
+[2026-09-09 16:40:16] [main] INFO  com.herokuapp.testCases.BaseClass - url entered
+[2026-09-09 16:40:17] [main] INFO  com.herokuapp.testCases.BaseClass - username entered
+[2026-09-09 16:40:17] [main] INFO  com.herokuapp.testCases.BaseClass - password entered
+[2026-09-09 16:40:18] [main] INFO  com.herokuapp.testCases.BaseClass - login button clicked
+[2026-09-09 16:40:18] [main] INFO  com.herokuapp.testCases.BaseClass - login passed
+[2026-09-09 16:43:36] [main] INFO  com.herokuapp.testCases.BaseClass - url entered
+[2026-09-09 16:43:37] [main] INFO  com.herokuapp.testCases.BaseClass - username entered
+[2026-09-09 16:43:37] [main] INFO  com.herokuapp.testCases.BaseClass - password entered
+[2026-09-09 16:43:38] [main] INFO  com.herokuapp.testCases.BaseClass - login button clicked
+[2026-09-09 16:43:38] [main] INFO  com.herokuapp.testCases.BaseClass - login passed
+[2026-09-09 17:01:59] [main] INFO  com.herokuapp.testCases.BaseClass - url entered
+[2026-09-09 17:01:59] [main] INFO  com.herokuapp.testCases.BaseClass - username entered
+[2026-09-09 17:01:59] [main] INFO  com.herokuapp.testCases.BaseClass - password entered
+[2026-09-09 17:02:00] [main] INFO  com.herokuapp.testCases.BaseClass - login button clicked
+[2026-09-09 17:02:00] [main] INFO  com.herokuapp.testCases.BaseClass - login passed
+[2026-09-09 17:07:47] [main] INFO  com.herokuapp.testCases.BaseClass - url entered
+[2026-09-09 17:07:48] [main] INFO  com.herokuapp.testCases.BaseClass - username entered
+[2026-09-09 17:07:48] [main] INFO  com.herokuapp.testCases.BaseClass - password entered
+[2026-09-09 17:07:49] [main] INFO  com.herokuapp.testCases.BaseClass - login button clicked
+[2026-09-09 17:07:49] [main] INFO  com.herokuapp.testCases.BaseClass - login passed
